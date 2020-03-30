@@ -1,2 +1,4 @@
-# Clase-02
-Aquí tienen el código de que utilizamos en la clase-02 🌈
+# Curso JavaScript desde cero - Playground Lab 👩🏻‍💻👨🏻‍💻
+Este es el repositorio del curso JavaScript desde cero, del curso de Playground Lab 🌈
+
+🔗Link de clas clases: https://www.youtube.com/watch?v=viQ6creGqFM&list=PLHExzKpZjjpfQPHE5lf1nMxJpO3kC4AMc&index=1
